@@ -1,0 +1,17 @@
+version: 1
+expertise:
+    programmingLanguages: c,c++,java,javascript,php,sql,python,plsql,shell,perl,scala,erlang
+    databases: mysql,oracle,postgresql,mongodb,cassandra,mariadb
+    technologyFrameworks: j2ee,spark,hadoop,bigdata,cassandra,nodejs,spring,selenium,hive,mesos,marathon,dcos,elasticsearch,lucene,hdfs,cordova,akka,springboot
+    awsTechnologies: emr,ecr,fargate,ec2,elasticcache,apigateway,lambda,cloudformation
+    webFrameworks: html,css,ajax,javascript,jquery,angularjs,reactjs,react,html5,vue,framework7,ionic,sencha,extjs
+    mobilePlatforms: android,ios,windows
+    operatingSystems: linux,solaris,windows,mac,macintosh
+    virtualizationPlatforms: docker,vmware,openstack
+    cicd: jenkins,electriccommander,codepipeline,code pipeline,hudson
+    containerDeploymentPlatforms: kubernetes,marathon,dcos
+    cloudProviders: aws,azure,google
+    appServers: jboss,glassfish,weblogic,websphere
+
+
+      
